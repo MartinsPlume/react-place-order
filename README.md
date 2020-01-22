@@ -1,3 +1,10 @@
+## Simple online shop to place an order
+
+Part of a study project "Online store"
+
+Creates API calls to make an order with product to WEB API:
+https://github.com/MartinsPlume/DatabaseController
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
